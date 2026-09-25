@@ -9,13 +9,13 @@
     {
       "binding": "LEADS_DB",
       "database_name": "wspaint-leads",
-      "database_id": "YOUR_D1_DATABASE_ID"
+      "database_id": "078721ea-b15a-4f0a-81ab-1e54afe5fd4d"
     }
   ],
   "vars": {
     "COMPANY_NAME": "W&S Painting",
     "COMPANY_PHONE": "(702) 379-1190",
-    "COMPANY_EMAIL": "contact@wspainting.com",
+    "COMPANY_EMAIL": "contact@wspaint.com",
     "SERVICE_AREA": "Las Vegas, NV"
   }
 }
