@@ -1,0 +1,21 @@
+{
+  "name": "ws-painting",
+  "compatibility_date": "2025-01-01",
+  "main": "src/worker.js",
+  "assets": {
+    "directory": "./public"
+  },
+  "d1_databases": [
+    {
+      "binding": "LEADS_DB",
+      "database_name": "wspaint-leads",
+      "database_id": "YOUR_D1_DATABASE_ID"
+    }
+  ],
+  "vars": {
+    "COMPANY_NAME": "W&S Painting",
+    "COMPANY_PHONE": "(702) 379-1190",
+    "COMPANY_EMAIL": "contact@wspainting.com",
+    "SERVICE_AREA": "Las Vegas, NV"
+  }
+}
